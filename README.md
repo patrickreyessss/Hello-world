@@ -1,2 +1,3 @@
 # Hello-world
-just another repository
+Cpe406 seatwork
+Github
